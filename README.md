@@ -1,3 +1,6 @@
+<p align="center">
+give me trio like ts please
+
 ![Image](https://github.com/user-attachments/assets/da75d2af-5097-41b8-876e-ef0d619a9928)
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=santafies&label=✦&labelColor=00000&color=000000&style=flat" alt="Profile views badge"/>
