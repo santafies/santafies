@@ -7,7 +7,7 @@ give me trio like ts please
 </p>
 <p align="center">
   <a href="https://santafies.atabook.org/">atabook</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://en.pronouns.page/@.looseeleaf">prns</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://en.pronouns.page/@.looseeleaf">rmking</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  
 
 </p>
