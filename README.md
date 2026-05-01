@@ -1,7 +1,7 @@
 <p align="center">
-give me trio like ts please
+itafushi
 
-![Image](https://github.com/user-attachments/assets/da75d2af-5097-41b8-876e-ef0d619a9928)
+<img width="1600" height="1000" alt="Image" src="https://github.com/user-attachments/assets/75c115c5-a0e8-4b95-86fc-0f3f5341925e" />
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=santafies&label=✦&labelColor=00000&color=000000&style=flat" alt="Profile views badge"/>
 </p>
