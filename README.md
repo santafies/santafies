@@ -7,7 +7,7 @@ itafushi
 </p>
 <p align="center">
   <a href="https://santafies.atabook.org/">atabook</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://en.pronouns.page/@.looseeleaf">rmking</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://en.pronouns.page/@itadorislop">prns.page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  
 
 </p>
