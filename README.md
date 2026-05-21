@@ -1,7 +1,7 @@
 <p align="center">
-itafushi
 
-<img width="1600" height="1000" alt="Image" src="https://github.com/user-attachments/assets/75c115c5-a0e8-4b95-86fc-0f3f5341925e" />
+
+<img width="700" height="700" alt="Image" src="https://github.com/user-attachments/assets/b0115c54-b9a4-47fa-9ad0-335809322221" /> 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=santafies&label=✦&labelColor=00000&color=000000&style=flat" alt="Profile views badge"/>
 </p>
