@@ -8,6 +8,5 @@
 <p align="center">
   <a href="https://santafies.atabook.org/">atabook</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://en.pronouns.page/@itadorislop">prns</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://itadories.atabook.org/">ata 2</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+  
 </p>
