@@ -3,4 +3,11 @@
 
 <p align="center">
   us
-<img width="1086" height="609" alt="Image" src="https://github.com/user-attachments/assets/39d2907e-e8fb-49f0-be6f-ba712c408b30" />>
+<img width="1086" height="609" alt="Image" src="https://github.com/user-attachments/assets/39d2907e-e8fb-49f0-be6f-ba712c408b30" />
+
+<details>
+<summary></summary>
+
+<img src="YOUR_IMAGE_URL">
+
+</details>
