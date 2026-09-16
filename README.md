@@ -8,10 +8,23 @@
 <details>
 <summary align="center"></summary>
   <div align="center">
+    ⠀ ⠀ ⠀ ⠀⠀⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀⠀⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀
+    
 mhc
     
-zoel qais navi az matt 
+<a href="https://github.com/fluezoalen">zoel</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<a href="https://github.com/qaisable">qais</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<a href="https://github.com/Navistel">navi</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<a href="https://github.com/WiltedDemise">azzy</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<a href="https://github.com/santafies">matt</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
+⠀ ⠀ ⠀ ⠀⠀⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀⠀⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀
+
+♡
+
+<a href="https://github.com/wolfcutiee">zee</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/genhayainer">ainer</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/pur3lies">jester</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 
