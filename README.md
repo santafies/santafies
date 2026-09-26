@@ -34,7 +34,7 @@ mhc
 
 <p align="center">
   <a href="https://fluffle.cc/primerick">
-    <img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/b6871e36-deff-4351-8950-122d158c3160" />
+    <img width="190" height="190" alt="Image" src="https://github.com/user-attachments/assets/b6871e36-deff-4351-8950-122d158c3160" />
   </a>
 </p>  
 
