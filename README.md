@@ -7,7 +7,7 @@
   
 <p align="center">
   <a href="https://fluffle.cc/primerick">
-    <img width="100" height="100" alt="Image" src="https://github.com/user-attachments/assets/9bc6dd7b-76f1-4ee6-9dfa-28d6d789d6c0" />
+    <img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/b6871e36-deff-4351-8950-122d158c3160" />
   </a>
 </p>  
  
