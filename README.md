@@ -4,6 +4,11 @@
 <p align="center">
   <img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/c622077d-4f70-4a2c-ad95-d4020fdd1bd5" />
 
+  
+<p align="center">
+  <a href="https://fluffle.cc/primerick"><3</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+ 
+
 <details>
 <summary align="center"></summary>
   <div align="center">
